@@ -36,7 +36,7 @@ public class Cache implements Observador {
 		this.dao.registra(this);
 		update();
 
-		int delay = 600000;
+		int delay = 100000;
 		Timer autosave = new Timer(delay, new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				Cache.this.save();
