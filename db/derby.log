@@ -1,0 +1,12 @@
+Sun Apr 12 00:54:15 BRT 2015 : Apache Derby Servidor de Rede - 10.8.2.2 - (1181258) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Sun Apr 12 00:54:15 BRT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-014c-abc3-72b5-ffffd30888a2 
+on database directory /home/sergio/Workspaces/Laboratory/ivote-standalone/db/ivote  with class loader sun.misc.Launcher$AppClassLoader@338bd37a 
+Loaded from file:/home/sergio/Workspaces/Laboratory/ivote-standalone/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_76-b13
+user.dir=/home/sergio/Workspaces/Laboratory/ivote-standalone
+derby.system.home=/home/sergio/Workspaces/Laboratory/ivote-standalone/db
+Database Class Loader started - derby.database.classpath=''
+Sun Apr 12 00:54:24 BRT 2015 : Servidor de Rede Apache Derby - encerramento de 10.8.2.2 - (1181258) em {2}
